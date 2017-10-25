@@ -1,4 +1,4 @@
-命令模式：实现 “ 行为请求者 ” 与 “ 行为实现者 ” 的解耦
+命令模式：实现 “ 行为请求者 ” 与 “ 行为实现者 ” 的解耦 应用：断路器 （spring cloud HystrixComand）
 
 ／／接收者
 public class Receiver {
