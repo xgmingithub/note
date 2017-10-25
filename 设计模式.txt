@@ -1,0 +1,41 @@
+命令模式：实现 “ 行为请求者 ” 与 “ 行为实现者 ” 的解耦
+
+／／接收者
+public class Receiver {
+public void action() {
+／／真正的业务逻辑
+｝
+}
+／／抽象命令
+interface Corruand {
+void execute();
+｝
+／／具体命令实现
+public class ConcreteCorruand implements Corruand {
+private Receiver receiver;
+｝
+public ConcreteCorand(Receiver receiver) {
+this.receiver = receiver;
+public void execute() {
+this.receiver.action();
+}
+}
+／／客户端调用者
+public class Invoker {
+private Command command;
+public void setCommand(Command command) {
+this.command= command;
+}
+public void action() {
+this. command.execute();
+}
+}
+public class Client {
+public static void main(String[] args) {
+Receiver receiver = new Receiver();
+Comand comand = new ConcreteComand(receiver);
+Invoker invoker = new Invoker();
+invoker.setComand(comand);
+invoker.action(); //客户端通过调用者来执行命令
+}
+}
