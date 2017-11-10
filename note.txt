@@ -55,3 +55,12 @@ public class MySingleton {
 
 2.2017年11月8日19:08:37
  闭包是一种特殊的对象。它由两部分构成：函数，以及创建该函数的环境。
+
+3.2017年11月10日14:35:39
+            //3.增加短信发送记录(转异步调用)
+            bll.AddMessageHistory(clientIp, mobile);
+            //3.1 利用委托实现异步写库
+            Action<string,string> action = (a, b)=> bll.AddMessageHistory(a, b);
+            action.BeginInvoke(clientIp, mobile, null, null);
+            //3.2 利用任务实现异步写库
+            Task.Run(() => bll.AddMessageHistory(clientIp, mobile));
