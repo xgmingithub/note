@@ -1,4 +1,4 @@
-命令模式：实现 “ 行为请求者 ” 与 “ 行为实现者 ” 的解耦 应用：断路器 （spring cloud HystrixComand）
+1.命令模式：实现 “ 行为请求者 ” 与 “ 行为实现者 ” 的解耦 应用：断路器 （spring cloud HystrixComand）
 
 ／／接收者
 public class Receiver {
@@ -39,3 +39,7 @@ invoker.setComand(comand);
 invoker.action(); //客户端通过调用者来执行命令
 }
 }
+
+2.工厂方法模式
+   工厂方法不再将与特定应用有关的类绑定到你的代码中。代码仅处理Product接口；因此它可以与用户定义的任何ConcreteProduct类一起使用。
+   用工厂方法在一个类的内部创建对象通常比直接创建对象更灵活。
