@@ -23,3 +23,8 @@
 	其中-d也可以是--delete，如：
 
 	git push origin --delete BranchName
+
+2）新建远程分支
+
+$ git branch dev
+$ git push origin dev
