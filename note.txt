@@ -15,7 +15,7 @@ public class MySingleton {
 public class MySingleton {  
       
     private static MySingleton instance = null;  
-      
+       
     private MySingleton(){}  
       
     public static MySingleton getInstance() {  
@@ -102,5 +102,9 @@ http连接：http连接就是所谓的短连接，即客户端向服务器端发送一次请求，服务器端响应
 		Failcache策略 有状态路由 即先缓存，再等待，最后重试
 		Failfast策略 快速失败 为核心的服务让资源
 
-5.2018年2月13日10:02:49
+7.2018年2月13日10:02:49
 1）面向对象有一个基本原则：通过抽象来隐藏背后的复杂性。
+
+8.依赖注入
+所谓依赖注入，就是由 IOC 容器在运行期间，动态地将某种依赖关系注入到对象之中。
+所以，依赖注入 (DI) 和控制反转 (IOC) 是从不同的角度的描述的同一件事情，就是指通过引入 IOC 容器，利用依赖关系注入的方式，实现对象之间的解耦。
