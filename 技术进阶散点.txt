@@ -1,0 +1,193 @@
+分布式锁
+http://www.hollischuang.com/archives/1716
+
+分布式服务管理 zookeeper
+https://www.ibm.com/developerworks/cn/opensource/os-cn-zookeeper/
+
+日期格式转换
+EasyUI 的DataGrid中DateTime的格式化问题
+http://www.cnblogs.com/xmfdsh/p/4062491.html
+
+秒杀总结详解
+http://zxcpro.github.io/blog/2015/07/27/gao-bing-fa-miao-sha-xi-tong-de-she-ji/
+
+批量插入数据的优化
+http://www.cnblogs.com/rush/archive/2012/08/31/2666090.html
+大数据表优化
+https://www.zhihu.com/question/19719997
+
+面向领域驱动的企业级应用程序开发框架 Apworks框架实战
+http://www.cnblogs.com/daxnet/p/3639161.html
+
+分布式任务开源框架
+https://github.com/xuxueli/xxl-job
+https://github.com/ltsopensource/light-task-scheduler
+http://dubbo.io/User+Guide-zh.htm#UserGuide-zh-%E9%9C%80%E6%B1%82
+
+.NET 开源 长链接 实时通讯 web应用 SignalR简介
+http://www.aizhengli.com/signalr2/293/%20SignalR%E7%AE%80%E4%BB%8B.html
+
+对象映射工具AutoMapper介绍
+http://www.cnblogs.com/JustRun1983/p/3944173.html
+
+微信开源框架
+http://www.jianshu.com/p/7220c349691a
+
+大规模数据处理而设计的快速通用的计算引擎 
+--与 Hadoop 对比，如何看待 Spark 技术？
+https://www.zhihu.com/question/26568496
+
+单点登录
+http://www.cnblogs.com/ywlaker/p/6113927.html
+
+spring mvc 简介
+http://jinnianshilongnian.iteye.com/blog/1594806
+
+maven 详解
+https://github.com/judasn/hexo-blog/blob/master/2016/03/Maven.md
+
+spring mvc 简单易懂教程
+http://sishuok.com/forum/blogPost/list/5160.html
+
+Dubbo 介绍
+http://shiyanjun.cn/archives/1075.html
+http://dubbo.io/user-guide/preface/architacture.html
+
+spark 介绍
+http://blog.csdn.net/u010330043/article/details/52293212
+https://www.ibm.com/developerworks/cn/analytics/library/ba-cn-apache-spark-memory-management/index.html
+http://www.cnblogs.com/shenh062326/p/3996545.html
+--知乎--简单易懂
+https://www.zhihu.com/question/26568496
+
+spark C# api Mobius
+https://github.com/Microsoft/Mobius
+
+spring mvc 系列文章
+http://jinnianshilongnian.iteye.com/category/231099
+
+spring mvc 参数绑定
+http://jinnianshilongnian.iteye.com/blog/1705701
+
+spark 基本架构及原理 （清晰易懂）
+http://www.cnblogs.com/tgzhu/p/5818374.html
+
+跨域cookie
+http://harttle.com/2016/12/28/cors-with-cookie.html
+
+rabbitmq 集群搭建
+https://blog.linuxeye.cn/451.html  linux搭建
+http://88250.b3log.org/rabbitmq-clustering-ha
+
+爬虫软件
+GooSeeker、火车头、狂人、八爪鱼、网络矿工、集搜客
+
+
+github相关资源收集
+https://github.com/chu888chu888/HadoopAndSparkDataStudy/blob/master/Content/chapter1901.md
+搜索
+https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details
+
+京东调用链 架构
+https://yq.aliyun.com/articles/80227
+
+spring boot 
+http://www.infoq.com/cn/articles/microframeworks1-spring-boot
+
+ELK 简介
+http://467754239.blog.51cto.com/4878013/1700828/
+
+容器管理系统  Kubernetes
+http://www.infoq.com/cn/articles/Kubernetes-system-architecture-introduction
+
+开源OA Java
+http://git.oschina.net/huangxianyuan/hxyFrame
+
+分布式锁
+http://www.hollischuang.com/archives/1716
+zookeeper 实现分布式锁
+http://blog.csdn.net/sunfeizhi/article/details/51926396
+
+客户端封装 简化zookeeper操作 Curator
+
+分布式 session
+http://blog.csdn.net/zgwangbo/article/details/51636721
+https://zhuanlan.zhihu.com/p/25933039
+
+分布式事务？No, 最终一致性
+https://zhuanlan.zhihu.com/p/25933039
+
+分布式缓存框架 AutoLoadCache
+https://github.com/qiujiayu/AutoLoadCache
+
+PostgreSQL 与 MySQL 相比，优势何在？
+https://www.zhihu.com/question/20010554/answer/74037965	
+
+龙果支付开源
+https://github.com/roncoo/roncoo-pay
+
+redis单线程思考
+http://www.cnblogs.com/syyong/p/6231326.html
+
+redis 数据结构使用场景
+http://www.jb51.net/article/54774.htm
+
+Elasticsearch简介
+http://blog.csdn.net/laoyang360/article/details/52244917
+
+浅谈 MVC、MVP 和 MVVM 架构模式
+https://draveness.me/mvx
+
+java 实现设计模式
+https://wizardforcel.gitbooks.io/design-pattern-lessons/content/lesson7.html
+
+闭包
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures
+
+YARN 基础组件
+https://www.cnblogs.com/wcwen1990/p/6737985.html
+
+解析 Twitter Heron 大数据实时分析系统
+http://blog.csdn.net/ldds_520/article/details/51891377
+
+Secket TCP http 介绍
+http://itindex.net/detail/47119-socket-http
+
+Yarn 介绍
+http://blog.csdn.net/suifeng3051/article/details/49486927
+
+docker
+http://www.360doc.com/content/16/0315/08/31240313_542296917.shtml
+
+网站防刷
+https://my.oschina.net/neochen/blog/164341
+
+RPC 远程服务调用
+https://www.cnblogs.com/ChrisMurphy/p/6550184.html
+
+开源的优秀RPC框架
+阿里巴巴 Dubbo：https://github.com/alibaba/dubbo
+新浪微博 Motan：https://github.com/weibocom/motan
+gRPC：https://github.com/grpc/grpc
+rpcx ：https://github.com/smallnest/rpcx
+Apache Thrift ：https://thrift.apache.org/
+
+rpc 与 restfull
+https://www.cnblogs.com/jager/p/6519321.html
+
+微服务与rpc
+http://blog.lixf.cn/essay/2017/02/17/microservice-7-rpc/
+
+.NET 分布式开源项目
+https://gitee.com/chejiangyi
+
+.net 开源项目整理
+https://github.com/jobbole/awesome-dotnet-cn
+
+分布式锁实现方案
+https://www.cnblogs.com/austinspark-jessylu/p/8043726.html	
+java- redis分布式锁实现方案
+https://www.cnblogs.com/linjiqin/p/8003838.html
+
+TCP HTTP UDP socket 区别
+http://lib.csdn.net/article/computernetworks/20534
